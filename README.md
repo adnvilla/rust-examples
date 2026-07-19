@@ -27,7 +27,7 @@ README.
 
 | Nivel | Objetivo | Estado |
 | --- | --- | --- |
-| [`basic`](basic/) | Sintaxis, tipos, ownership y manejo de errores | En construcción |
+| [`basic`](basic/) | Sintaxis, tipos, ownership y manejo de errores | Completo |
 | `intermediate` | Traits, pruebas, CLI y concurrencia | Planeado |
 | `advanced` | Async, redes, rendimiento, FFI y sistemas | Planeado |
 
@@ -48,6 +48,16 @@ botones y descubrir qué tapa olvidaste poner.
 | --- | --- | --- | --- |
 | 01 | [Hola, Rust](basic/01-hello-rust/) | Cargo, `main`, macros | Ninguna |
 | 02 | [Dependencias](basic/02-hello-rust-dependencies/) | crates, SemVer, `use`, errores | Ninguna |
+| 03 | [Variables y tipos](basic/03-variables-and-types/) | inmutabilidad, tipos, tuplas | Ninguna |
+| 04 | [Funciones y expresiones](basic/04-functions-and-expressions/) | retornos, bloques, `if` | Ninguna |
+| 05 | [Control de flujo](basic/05-control-flow/) | bucles, `match`, retorno temprano | Ninguna |
+| 06 | [Strings y Unicode](basic/06-strings-and-unicode/) | `String`, `&str`, UTF-8 | Ninguna |
+| 07 | [Ownership](basic/07-ownership/) | movimiento, alcance, liberación | Ninguna |
+| 08 | [Borrowing](basic/08-borrowing/) | referencias compartidas y mutables | Ninguna |
+| 09 | [Structs y métodos](basic/09-structs-and-methods/) | structs, `impl`, API | Ninguna |
+| 10 | [Enums y match](basic/10-enums-and-match/) | variantes, patrones, exhaustividad | Ninguna |
+| 11 | [`Option` y `Result`](basic/11-option-and-result/) | ausencia, errores propios, `?` | Ninguna |
+| 12 | [Colecciones e iteradores](basic/12-collections-and-iterators/) | `HashMap`, closures, iteradores | Ninguna |
 
 ## Verificar todo
 
