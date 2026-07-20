@@ -30,6 +30,7 @@ README.
 | [`basic`](basic/) | Sintaxis, tipos, ownership y manejo de errores | Completo |
 | [`intermediate`](intermediate/) | Traits, pruebas, CLI y concurrencia | Completo |
 | [`advanced`](advanced/) | Async, redes, rendimiento e infraestructura | Completo |
+| [`capstone`](capstone/) | Proyecto integrador de servicio completo | Completo |
 
 Empieza aquí:
 
@@ -78,6 +79,7 @@ botones y descubrir qué tapa olvidaste poner.
 | A06 | [Zero-copy parsing](advanced/06-zero-copy-parsing/) | slices, lifetimes, parsing | Ninguna |
 | A07 | [Typestate](advanced/07-typestate/) | estados válidos en tipos | Ninguna |
 | A08 | [`unsafe` seguro](advanced/08-safe-unsafe/) | invariantes y abstracción segura | Ninguna |
+| P01 | [Café sin bugs](capstone/coffee-platform/) | API, PostgreSQL, Redis, tracing | Docker Compose |
 
 ## Verificar todo
 

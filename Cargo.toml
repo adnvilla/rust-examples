@@ -1,5 +1,5 @@
 [workspace]
-members = ["advanced/*", "basic/*", "intermediate/*"]
+members = ["advanced/*", "basic/*", "capstone/*", "intermediate/*"]
 resolver = "3"
 
 [workspace.package]
