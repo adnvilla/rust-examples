@@ -29,7 +29,7 @@ README.
 | --- | --- | --- |
 | [`basic`](basic/) | Sintaxis, tipos, ownership y manejo de errores | Completo |
 | [`intermediate`](intermediate/) | Traits, pruebas, CLI y concurrencia | Completo |
-| `advanced` | Async, redes, rendimiento, FFI y sistemas | Planeado |
+| [`advanced`](advanced/) | Async, redes, rendimiento e infraestructura | Completo |
 
 Empieza aquí:
 
@@ -70,6 +70,14 @@ botones y descubrir qué tapa olvidaste poner.
 | I10 | [Channels](intermediate/10-channels/) | mensajes, movimiento, cierre | Ninguna |
 | I11 | [Smart pointers](intermediate/11-smart-pointers/) | `Rc`, `RefCell`, propiedad compartida | Ninguna |
 | I12 | [Workspace](intermediate/12-workspace-architecture/) | paquetes y dependencias de ruta | Ninguna |
+| A01 | [Async y tasks](advanced/01-async-tasks/) | futures, tasks, cancelación | Ninguna |
+| A02 | [API HTTP](advanced/02-http-api/) | Axum, rutas, JSON, estado | Ninguna |
+| A03 | [PostgreSQL](advanced/03-postgres/) | pool, SQL parametrizado | Docker Compose |
+| A04 | [Redis](advanced/04-redis-cache/) | caché async, TTL | Docker Compose |
+| A05 | [Observabilidad](advanced/05-observability/) | spans, events, contexto | Ninguna |
+| A06 | [Zero-copy parsing](advanced/06-zero-copy-parsing/) | slices, lifetimes, parsing | Ninguna |
+| A07 | [Typestate](advanced/07-typestate/) | estados válidos en tipos | Ninguna |
+| A08 | [`unsafe` seguro](advanced/08-safe-unsafe/) | invariantes y abstracción segura | Ninguna |
 
 ## Verificar todo
 
