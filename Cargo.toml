@@ -1,5 +1,5 @@
 [workspace]
-members = ["basic/*", "intermediate/*"]
+members = ["advanced/*", "basic/*", "intermediate/*"]
 resolver = "3"
 
 [workspace.package]
@@ -10,7 +10,7 @@ license = "MIT"
 publish = false
 
 [workspace.lints.rust]
-unsafe_code = "forbid"
+unsafe_code = "deny"
 
 [workspace.lints.clippy]
 all = "warn"
