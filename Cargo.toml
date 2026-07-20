@@ -1,5 +1,5 @@
 [workspace]
-members = ["basic/*"]
+members = ["basic/*", "intermediate/*"]
 resolver = "3"
 
 [workspace.package]
@@ -15,4 +15,3 @@ unsafe_code = "forbid"
 [workspace.lints.clippy]
 all = "warn"
 pedantic = "warn"
-
